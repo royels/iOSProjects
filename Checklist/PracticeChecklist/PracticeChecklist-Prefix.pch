@@ -1,0 +1,15 @@
+//
+//  PracticeChecklist-Prefix.pch
+//  PracticeChecklist
+//
+//  Created by Rohan Yelsangikar on 1/2/15.
+//  Copyright (c) 2015 Royels. All rights reserved.
+//
+
+#ifndef PracticeChecklist_PracticeChecklist_Prefix_pch
+#define PracticeChecklist_PracticeChecklist_Prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif
